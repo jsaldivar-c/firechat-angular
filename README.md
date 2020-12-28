@@ -1,27 +1,39 @@
-# Firechat
+# Chat Firebase | Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Chat Firebase | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1609198702/GitHub/firechat_1_wm8byg.png "Chat Firebase | Angular")
 
-## Code scaffolding
+![Chat Firebase | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1609198702/GitHub/firechat_1_wm8byg.png "Chat Firebase | Angular")
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-## Build
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+> -   Framework **Angular 10.0.7**
+> -   Framework **Bootstrap 4.5**
+> -   TypeScript
+> -   ES6
+> -   Firebase
+> -   AngularFire
 
-## Running unit tests
+### **Caracterisiticas**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br>
 
-## Running end-to-end tests
+> -   Uso de libreria oficial AngularFire para conectarnos a Firebase.
+> -   Creación de observables para escuchar mediante sockets los cambios en Firebase.
+> -   Autenticación con Google y Twitter para nuestro chat.
+> -   Uso de promesas para ejecutar funciones cuando se detectan cambios en la base de datos.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+<br>
 
-## Further help
+### Autor
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<br>
+
+Desarrollado en el curso _**Udemy | Angular de 0 a Avanzado | Fernando Herrera**_
+
+Realización de la practica: _**José Saldivar**_

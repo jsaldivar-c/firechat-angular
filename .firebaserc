@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-angular-8daec": {
+      "hosting": {
+        "firechat": [
+          "firechat-angular-8daec"
+        ]
+      }
+    }
+  }
+}
