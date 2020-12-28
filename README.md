@@ -6,7 +6,7 @@ Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-
 
 ![Chat Firebase | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1609198702/GitHub/firechat_1_wm8byg.png "Chat Firebase | Angular")
 
-![Chat Firebase | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1609198702/GitHub/firechat_1_wm8byg.png "Chat Firebase | Angular")
+![Chat Firebase | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1609198702/GitHub/firechat_2_dtrylj.png "Chat Firebase | Angular")
 
 ### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
